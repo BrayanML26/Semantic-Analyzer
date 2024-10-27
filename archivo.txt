@@ -1,0 +1,16 @@
+int main() {
+    int x = 10;
+    float y = 2.5;
+    float y = 3.5; 
+
+    int count;
+    int letter = 1;
+    letter = 1.5;
+
+    for (count = 0; count < x; count++) {
+        letter++;
+        y += count;
+    }
+
+    x = 5; 
+}
